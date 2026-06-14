@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Experiment and training logs
+mlruns/
+lightning_logs/
+**/lightning_logs/
+
+# Large source data
+data/*
+!data/.gitkeep
+
+# Generated models
+models/*.pkl
+models/*.json
+models/*.pt
+models/best_model*
+!models/.gitkeep
+!models/experiment_results.csv
+
+# Local logs and temporary setup files
+*.log
+setup_log.txt
+run_full_setup.py
+
+# OS and editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
