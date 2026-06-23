@@ -34,7 +34,7 @@
 Исходный файл `LD2011_2014.txt` имеет большой размер и поэтому не хранится
 в GitHub-репозитории.
 
-**Ссылка на датасет в Google Drive:** [добавить ссылку]
+**Ссылка на датасет в Google Drive:** https://drive.google.com/file/d/1X0xBaVI3WeAdh_yxsT0zcTEDDKqt-x5A/view?usp=sharing
 
 Также датасет можно загрузить автоматически:
 
